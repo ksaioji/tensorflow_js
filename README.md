@@ -1,7 +1,7 @@
 # tensorflow_js
 This repository is for studying tensorflow.js.
 
-Refer to URL below.
+Refer to URL below.  
 https://codelabs.developers.google.com/codelabs/tensorflowjs-teachablemachine-codelab/index.html
 
 Writing 3 kinds of code and written in each folders,
